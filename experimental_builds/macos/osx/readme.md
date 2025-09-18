@@ -3,3 +3,6 @@ This directory is used to store experimental builds that likely do not contain a
 
 # As of currently
 This directory is for OS X 10.10 (Yosemite) up to macOS 10.15 (Catalina).
+
+The accepted architectures for this platform:
+- AMD64 (64-bit Addition of IA-32)
